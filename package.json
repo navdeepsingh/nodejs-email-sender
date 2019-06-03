@@ -1,0 +1,27 @@
+{
+  "name": "email-sender",
+  "version": "1.0.0",
+  "description": "Simple email sender application using nodejs, mailgun",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navdeepsingh/nodejs-email-sender.git"
+  },
+  "keywords": [
+    "mailgun",
+    "email",
+    "nodejs"
+  ],
+  "author": "Navdeep Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navdeepsingh/nodejs-email-sender/issues"
+  },
+  "homepage": "https://github.com/navdeepsingh/nodejs-email-sender#readme"
+}
